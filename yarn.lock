@@ -314,12 +314,13 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^12.0.9"
 
-"@keeveestore/file@^0.1.1":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@keeveestore/file/-/file-0.1.1.tgz#5d3894acbbaf305f28dc3305383d269614946de4"
-  integrity sha512-22ACV+oKWT4P1bW/Eg3y26MBaMbyc+bRxSoMax+Nkwsfglw6+4BAUT+kvYKohfb25dgXMs+bJYpDEeBZfYtfVg==
+"@keeveestore/file@^0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@keeveestore/file/-/file-0.1.2.tgz#0ef0d7508b4d8a65b7f737e8c418a4613e2aef3c"
+  integrity sha512-hgeRM7Oh/xkW8Jmd3V167N9YJqwxe2JdpB1xghmvSlzQicPi7Xj07y5mpTFIhLycvS2lg+BQQCwYP24nPsP05g==
   dependencies:
     "@keeveestore/keeveestore" "^0.1.0"
+    fs-extra "^8.0.1"
 
 "@keeveestore/keeveestore@^0.1.0":
   version "0.1.0"
