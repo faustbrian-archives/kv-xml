@@ -26,13 +26,13 @@
 		"dist"
 	],
 	"dependencies": {
-		"@konceiver/kv-file": "^1.1.0",
-		"fs-extra": "^7.0.1",
+		"@konceiver/kv-file": "^1.2.0",
+		"fs-extra": "^9.1.0",
 		"xml-js": "^1.6.11"
 	},
 	"devDependencies": {
 		"@konceiver/kv-test-suite": "^1.0.0",
-		"@konceiver/tease": "^2.0.0"
+		"@konceiver/tease": "^2.0.1"
 	},
 	"types": "dist/index"
 }
